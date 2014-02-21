@@ -1,0 +1,11 @@
+Name			Rarity		Description
+Easy Money		Common		Usual Henchmen. Dressed with white t-shirt, dark pants, shoes suspender and hat. Armed with six shoots revolver or baseball bat.
+Hammer Guy		Uncommon	Big guy with a demolition hammer. A smart guy within, as he knows how to put his big muscles to good use, with a fast swing.
+Dangerous Type	Unique		Black suit, sunglasses and a chain warped around his hands ready for a sucker punch. A part time boxer with a killer instinct and a attitude.
+Mobster			Common		Men on suits, hat and the every day Tommy Gun. Your regular friendly Gangster neighbour.
+Fire Starter	Uncommon	His red hair goes with his incendiary attitude. Gasoline on a bottle makes a good Molotov Cocktail. Uses an industry worker outfit.
+Bouncer			Uncommon	Big guy says who can and who can't enter. Dark brown suit and a blackjack to stun anyone fool enough to try his luck.
+Butcher			Unique		He is using a white apron with red stains, or a red apron with white stains, we can never tell. His Hatchet doesn't need to be sharp as it is used not to cut, but crush.
+Sailor			Common		Agile men of the sea using black sailor's uniform. Armed with clubs and pistols.
+Dockworker		Common		Shirtless workers, usually with a huge piece of wood at hand.
+Rottweiler		Uncommon	Dogs. Angry, bad, big dogs. enough said.
