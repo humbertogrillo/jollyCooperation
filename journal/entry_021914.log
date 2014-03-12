@@ -1,6 +1,14 @@
 -- Added by Raposa --
+<en>
 	First update of the game project itself! Hip Hip Hippopotamus!
 	==============================================================
 We did a lot of talking but too little of action. We decided to work with a simple platform action game, like the ones for NES, featuring Chicago of the 20's. Some noir, some shooting and a not sexualized protagonist woman, thanks to some input of my feminist sister-in-law. For this first one, we are using Construct 2, for witch I already have a key. Besides, it will help us keep focus while using little to none programming skills.
-Coldye and Raghtshade are away doing their own business while studying some basic tools for our project. I am working with a friend, Fernanda Nia, who is a talented illustrator, to come with some basic concepts for the characters. I would like to make some retro looking graphics for the game, so I decided for a 32x32px grid for each character, only the biggest ones occupying that much. the main character and other average characters are going to be 24px high, tying not to deform too much body proportion. We'll be using a folder here for the concept art so anyone may opine.
+Coldye and Raghtshade are away doing their own business while studying some basic tools for our project. I am working with a friend, Fernanda Nia, who is a talented illustrator, to come with some basic concepts for the characters. I would like to make some retro looking graphics for the game, so I decided for a 32x32px grid for each character, only the biggest ones occupying that much. The main character and other average characters are going to be 24px high, trying not to deform too much body proportion. We'll be using a folder here for the concept art so anyone may opine.
 Stay tuned!
+
+<pt-br>
+	Primeira atualização do jogo! Hip Hip Hipopotamo!
+	=================================================
+Nós conversamos muito mas agimos pouco. Nós decidimos trabalhar em um jogo de plataforma simples, como aqueles de NES, com Chicago dos anos 20 como cenário. Um pouco de Noir, um pouco de tiroteio e uma protagonista não sexualizada, graças à influência da minha cunhada feminista. Para o primeiro jogo, estaremos usando Construct 2, para o qual já tenho chave. Além disto, nos ajudará a manter o foco enquanto usando pouca programação.
+Coldye e Raghtshade estão cada um fazendo suas próprias coisas enquanto estudando o básico da ferramenta para nosso projeto. Eu estou trabalhando com uma amiga, Fernanda Nia, que é uma ilustradora talentosa, para criar um conceito para os personagens. Eu gostaria de fazer um jogo com aparência retro, então decidi por usar uma grade de 32x32 px para cada personagem, apenas os maiores ocupando tudo isso. O personagem principal e outros de estatura normal terão 24px de altura, tentando não distorcer demais a proporção do corpo. Nós usaremos uma pasta aqui para o concept para que todos possam opinar.
+Fique conosco!
